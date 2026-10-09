@@ -1,0 +1,7 @@
+/* RedBlink admin theme */
+:root {
+  --theme-success-500: #ff352c;
+}
+.template-default .nav { border-right: 1px solid var(--theme-elevation-100); }
+.btn--style-primary { background-color: #ff352c !important; }
+.btn--style-primary:hover { background-color: #d42820 !important; }
